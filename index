@@ -1,1 +1,9 @@
-
+<!DOCTYPE html>
+    <title>
+        Seoul Survey
+    </title>
+    <body>
+        <div> For bishes who cant decide </div>
+        <button> Lets Go! </button>
+    </body>
+</html>
